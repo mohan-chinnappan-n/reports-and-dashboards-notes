@@ -341,10 +341,6 @@ Create a new custom field on the object that you want to count in your Reports
 ![poo-sum-3](./img/poo-sum-3.png)
 
 
-#### Custom reports
-
-![Custome Reports](https://mohansun-lx1-dev-ed.my.salesforce.com/img/crtsplash.png)
-
 
 #### Questions
 
