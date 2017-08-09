@@ -21,6 +21,8 @@ Start at the top with the executives and key stakeholders:
 ![Audience](https://org62--c.na44.content.force.com/servlet/servlet.ImageServer?id=01530000002BSua&oid=00D000000000062&lastMod=1443127843000)
  
 **Examples:**
+
+
 	
 |  Role | Objective  | Focus on |
 |---|---|---|---|---|
@@ -289,7 +291,8 @@ Create a new custom field on the object that you want to count in your Reports
 
 
 #### References
-1. [Manage Access to Reports and Dashboards] (https://help.salesforce.com/articleView?id=faq_reports_control_access.htm&type=0)
+
+1. [Manage Access to Reports and Dashboards](https://help.salesforce.com/articleView?id=faq_reports_control_access.htm&type=0)
 2. [Reports Best Practices](https://help.salesforce.com/articleView?id=000230049&type=1)
 3. [ Compare Access Levels for Report and Dashboard Folders ](https://help.salesforce.com/articleView?id=analytics_folder_access_chart.htm&type=0)
 4. [Improve Data Quality](http://pages.mail.salesforce.com/page.aspx?QS=3935619f7de112ef3fdd44cfb3dcb15df8ef83257379ba31)
