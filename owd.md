@@ -28,6 +28,6 @@ Service contracts are always Private.
 
 
 
-### Refernces 
+### References 
 
-1.[Set Your Organization-Wide Sharing Defaults] (https://help.salesforce.com/articleView?id=admin_sharing.htm&type=0)
+1. [Set Your Organization-Wide Sharing Defaults](https://help.salesforce.com/articleView?id=admin_sharing.htm&type=0)

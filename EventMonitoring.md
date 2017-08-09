@@ -30,5 +30,4 @@ Event monitoring provides tracking for lots of types of events, including:
 (https://help.salesforce.com/articleView?id=bi_app_admin_wave.htm&language=en_US&type=0)
 
 2. [Get Started with Event Monitoring](https://trailhead.salesforce.com/modules/event_monitoring/units/event_monitoring_intro)
-3. 
 
