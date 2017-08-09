@@ -198,7 +198,7 @@ If you’re concerned about too much access, dynamic dashboards might be the way
 #### Report Formats
 ![report-formats](./img/report-formats.png)
 
-### Tabluar
+### Tabular
 
 Simply of an ordered set of fields in columns, with each matching record listed in a row. 
 
@@ -210,7 +210,7 @@ Simply of an ordered set of fields in columns, with each matching record listed 
 ![tabular](./img/tabular.png)
 
 
-### Summary
+### Summary Reports
 
 Summary reports are similar to tabular reports, but also allow users to group rows of data, view subtotals, and create charts.
 
@@ -263,7 +263,7 @@ Bucketing lets you quickly categorize report records without creating a formula 
 ![reports-bucket-fields](./img/reports-bucket-fields.gif )
  
 
-### Matrix 
+### Matrix Reports 
 
  [Video](https://www.youtube.com/watch?v=5Lcxh-_U6P8)
  
