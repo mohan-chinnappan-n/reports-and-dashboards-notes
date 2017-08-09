@@ -277,6 +277,11 @@ Bucketing lets you quickly categorize report records without creating a formula 
   TO:
   
   ![matrix-report-1](./img/matrix-report-1.png)
+  
+  
+ How to Switch the groupings columns to rows and vice-versa?
+ 
+  ![matrix-switching-rowgroup-to-column-group](./img/reports-matrix-1.gif)
 
 
 
