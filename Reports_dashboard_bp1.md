@@ -24,11 +24,7 @@ Start at the top with the executives and key stakeholders:
 
 
 	
-|  Role | Objective  | Focus on |
-|---|---|---|---|---|
-|VP of Sales  | Forcasting and Tracking Larage Deals  | Data points: for large deals and forecasting and report frequency  |
-|VP of Marketing   |Track: campaign awareness, response rates  |Data points: Campaign, Campaign member, lead, opportunity    |   
-| Sales team |Progress in relation to the peers   |Data points: Sales team closing deals   |   
+ ![reports example](./img/reports-example-1.png) 
 
 
 ### Folder Permissions
