@@ -263,13 +263,19 @@ Bucketing lets you quickly categorize report records without creating a formula 
 ![reports-bucket-fields](./img/reports-bucket-fields.gif )
  
 
+#### Matrix 
+
+ [Video](https://www.youtube.com/watch?v=5Lcxh-_U6P8)
+
+
+
 ### Power of One 
 
 Create a new custom field on the object that you want to count in your Reports 
 
 1. Create a custom field of Data Type: Formula
 2. Formula Return Type as Number (0 decimals)
-3. Build the Formula: 1 - So this formula return value 1
+3. Build the Formula: 1 - So this formula returns value 1
 
 #### Select Summarize this Field
 ![poo-sum-1](./img/poo-sum-1.png)
@@ -297,6 +303,11 @@ Create a new custom field on the object that you want to count in your Reports
 6. [Improve Report Performance](https://help.salesforce.com/articleView?id=improving_report_performance.htm&type=0)
 7. [Get The Most Out Of Your Data](http://salesforce.vidyard.com/watch/Gt-51vmOkd48X9c5Dplx6A)
 8. [Intro to Reports and Dashboards](https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_overview)
+
+
+#### Videos
+
+1. [Getting Started with Report Builder](https://www.youtube.com/watch?v=7_LkmrhKf2g)
 
 
 
