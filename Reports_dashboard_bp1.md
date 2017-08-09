@@ -282,7 +282,44 @@ Bucketing lets you quickly categorize report records without creating a formula 
  How to Switch the groupings columns to rows and vice-versa?
  
   ![matrix-switching-rowgroup-to-column-group](./img/reports-matrix-1.gif)
+  
+ 
+ With Summary:
+ 
+ ![Matrix with summary field](./img/matrix-report-sum-1.png)
 
+
+#### Joined Reports
+
+A joined report can contain data from multiple **standard or custom report types**. You can add report types to a joined report if they have **relationships with the same object or objects**. 
+
+For example, if you have a joined report that contains the **Opportunities report type**, you can add the **Cases report type** as well because both have a relationship with the **Accounts object**.
+
+
+A joined report consists of up to five report blocks, which you add to the report to create multiple views of your data
+
+[Video](http://salesforce.vidyard.com/watch/9HiLP7WVAApjQHhyA9QRUQ)
+
+Example:
+
+Show Accounts with :
+
+1. **Open Opportunities** 
+2. **Closed Opportunities** 
+3. **Open Cases**
+
+![joined-rpt-account-opty-case.png](./img/joined-rpt-account-opty-case.png)
+
+
+Steps:
+
+![joned-rpt-1](./img/joined-rpt-1.png)
+
+![joned-rpt-2](./img/joined-rpt-2.png)
+
+![joned-rpt-3](./img/joined-rpt-3.png)
+
+![joned-rpt-4](./img/joned-rpt-4.png)
 
 
 ### Power of One 
@@ -331,6 +368,7 @@ Create a new custom field on the object that you want to count in your Reports
 6. [Improve Report Performance](https://help.salesforce.com/articleView?id=improving_report_performance.htm&type=0)
 7. [Get The Most Out Of Your Data](http://salesforce.vidyard.com/watch/Gt-51vmOkd48X9c5Dplx6A)
 8. [Intro to Reports and Dashboards](https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_overview)
+9. [Joined Reports](https://help.salesforce.com/articleView?id=reports_joined_format_concepts.htm&type=0)
 
 
 #### Videos
