@@ -293,6 +293,18 @@ Create a new custom field on the object that you want to count in your Reports
 ![Custome Reports](https://mohansun-lx1-dev-ed.my.salesforce.com/img/crtsplash.png)
 
 
+#### Questions
+
+1. Maximum grouping levels in Summary Reports?
+
+	3
+	![max-grouping-summary-report](./img/max-grouping-summary-report.png)
+	
+2. Maximum number of objects you can associate in a custom-type report?
+
+	4
+	![report type](./img/report-type-objects-involved.png)
+
 #### References
 
 1. [Manage Access to Reports and Dashboards](https://help.salesforce.com/articleView?id=faq_reports_control_access.htm&type=0)
