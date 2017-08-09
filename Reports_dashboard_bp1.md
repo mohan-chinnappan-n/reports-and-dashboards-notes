@@ -266,6 +266,17 @@ Bucketing lets you quickly categorize report records without creating a formula 
 #### Matrix 
 
  [Video](https://www.youtube.com/watch?v=5Lcxh-_U6P8)
+ 
+ When you change to Matrix report from a Summary report:
+ 
+ 1. Top level group in the Summary report becomes the **row grouping**
+ 2. 2nd level grouping becomes the **column groupings**
+
+  ![matrix-report-0](./img/matrix-report-0.png)
+ 
+  TO:
+  
+  ![matrix-report-1](./img/matrix-report-1.png)
 
 
 
