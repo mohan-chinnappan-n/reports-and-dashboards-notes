@@ -365,6 +365,8 @@ Create a new custom field on the object that you want to count in your Reports
 7. [Get The Most Out Of Your Data](http://salesforce.vidyard.com/watch/Gt-51vmOkd48X9c5Dplx6A)
 8. [Intro to Reports and Dashboards](https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_overview)
 9. [Joined Reports](https://help.salesforce.com/articleView?id=reports_joined_format_concepts.htm&type=0)
+10.[6 Steps toward top Data Quality](https://help.salesforce.com/articleView?id=000025304&type=1)
+
 
 
 #### Videos
