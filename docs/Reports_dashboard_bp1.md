@@ -143,9 +143,20 @@ For example, use **Last 30 Days** instead of **Current FY**.
 
 Set time frame filters by choosing a **Date Field** and **Range** to view. Only records for that time frame are shown.
 
+Use report filters that emphasize the use of standard or custom indexed fields. Use index fields in report filters, whenever possible
+
 Reduce the number of fields in the report by **removing unnecessary columns** or fields.
 
 If you receive an error message saying that your activity report has too many results, **filter** on a picklist, text, or date field.
+
+**De-normalize data**:
+
+De-normalize data when practical—“over de-normalizing” the data results in more overhead. 
+Use summarized data stored on the **parent record** for the report. This practice is more
+efficient than having the report summarize the **child records**
+
+** Data Archiving **
+ Reduce the amount of data by archiving unused records—move unused records to a custom object table to reduce the size of the report object.
 
 
 
