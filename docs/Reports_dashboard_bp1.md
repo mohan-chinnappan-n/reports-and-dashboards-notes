@@ -155,7 +155,8 @@ De-normalize data when practical—“over de-normalizing” the data results in
 Use summarized data stored on the **parent record** for the report. This practice is more
 efficient than having the report summarize the **child records**
 
-** Data Archiving **
+**Data Archiving**:
+
  Reduce the amount of data by archiving unused records—move unused records to a custom object table to reduce the size of the report object.
 
 
